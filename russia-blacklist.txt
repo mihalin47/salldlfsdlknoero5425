@@ -1,4 +1,4 @@
-[Wildcard]
+[RegExp]
 
 000.pe
 000webhostapp.com
