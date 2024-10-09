@@ -1,3 +1,5 @@
+[Wildcard]
+
 000.pe
 000webhostapp.com
 00112.ru
